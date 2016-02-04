@@ -1,0 +1,6 @@
+Happy Joy Joy!,Happy%20Joy%20Joy%21
+http://icpc.baylor.edu/icpc/,http://icpc.baylor.edu/icpc/
+plain_vanilla,plain_vanilla
+(**),%28%2a%2a%29
+?,?
+the 7% solution,the%207%25%20solution
