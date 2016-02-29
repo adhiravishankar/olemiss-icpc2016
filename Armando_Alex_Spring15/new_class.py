@@ -1,3 +1,4 @@
+# Failed Attempt. No bueno
 N = int(input().strip())
 names = {}
 keys = {"upper":-1, "middle":0, "lower":1}
