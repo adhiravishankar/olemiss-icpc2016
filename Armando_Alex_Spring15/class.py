@@ -1,3 +1,4 @@
+# Did not worked
 class CLASS:
     def __init__(self, numlist):
         self.vals = numlist
