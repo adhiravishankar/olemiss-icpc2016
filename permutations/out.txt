@@ -1,0 +1,5 @@
+Heap's algorithm (recursive) : 3.799999999999637e-05
+Heap's algorithm (iterative) : 1.8000000000004124e-05
+Johnson-Trotter (recursive) : 3.399999999999931e-05
+a naive approach (recursive) : 5.1999999999996493e-05
+the builtin iterools.permutations : 8.999999999995123e-06
