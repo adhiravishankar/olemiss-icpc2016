@@ -31,7 +31,7 @@ def print_Graph(G, min_dist):
     nx.draw(G, p)
     nx.draw_networkx_edge_labels(G, p, edge_labels=pos)
     plt.show()
-    plt.savefig('tslgraph.png')
+    plt.savefig('tslgraph.jpg')
 
 
 def solve(graph, cities):
@@ -51,6 +51,8 @@ if __name__ == "__main__":
     cities = [k for k in range(10)]
     start = timer()
     graph = build_graph(cities)
-    print_Graph(graph, solve(graph, cities))
+    s = solve(graph, cities)
     end = timer()
+    print_Graph(graph, s)
+
     print 'Total time: ' + str(end - start)
